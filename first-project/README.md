@@ -18,9 +18,9 @@ This server is created from node.js
 ## 📂 Project Structure
 
 ```text
-node-http-server/
+first-project/
 │
-├── server.js
+├── app.js
 └── README.md
 ```
 
