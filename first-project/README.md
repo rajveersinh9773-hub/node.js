@@ -64,7 +64,7 @@ cd node-http-server
 ### Run the server
 
 ```bash
-node server.js
+node app.js
 ```
 
 ---
