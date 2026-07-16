@@ -57,7 +57,8 @@ server.listen(PORT, () => {
 ### Clone the repository
 
 ```bash
-git clone https://github.com/your-username/node-http-server.git
+git clone https://github.com/rajveersinh9773-hub/node.js/tree/main/first-project
+
 cd node-http-server
 ```
 
