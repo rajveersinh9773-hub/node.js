@@ -97,7 +97,7 @@ This server is created from node.js
 
 Watch the complete explanation of this Node.js HTTP Server project:
 
-[▶️ Watch Video Explanation](its current unavilabl
+[▶️ Watch Video Explanation](https://drive.google.com/file/d/1_ywaQF5FK0DYUsgwP_7eSR595szAbntE/view?usp=sharing)
 
 
 ---
