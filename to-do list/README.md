@@ -1,8 +1,8 @@
-# 📝 To-Do List App
+#  To-Do List App
 
 A simple To-Do List application built using **Node.js**, **Express.js**, **EJS**, and **CSS**. Users can add and delete tasks through a clean and responsive interface.
 
-## 🚀 Features
+##  Features
 
 - Add new tasks
 - Delete existing tasks
@@ -10,7 +10,7 @@ A simple To-Do List application built using **Node.js**, **Express.js**, **EJS**
 - Responsive and modern UI
 - Uses Express middleware for form handling
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Node.js
 - Express.js
@@ -18,7 +18,7 @@ A simple To-Do List application built using **Node.js**, **Express.js**, **EJS**
 - HTML5
 - CSS3
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 to-do-list/
@@ -35,12 +35,12 @@ to-do-list/
 └── README.md
 ```
 
-## 📦 Installation
+##  Installation
 
 1. Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/rajveersinh-jadeja/node.js/tree/main/to-do%20list>
 ```
 
 2. Navigate to the project folder
@@ -69,13 +69,7 @@ node app.js
 ```
 http://localhost:3000
 ```
-
-##  Features
-
--  Add new tasks
--  Delete tasks
-
-
+ 
 ##  How It Works
 
 - The home page displays all tasks.
