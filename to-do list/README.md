@@ -78,6 +78,8 @@ http://localhost:3000
 - Clicking the **Delete** button removes the selected task.
 - The page reloads automatically after each action.
 
+ ##  Project Explanation Video
+
 ##  License
 
 This project is created for learning purposes and is free to use.
